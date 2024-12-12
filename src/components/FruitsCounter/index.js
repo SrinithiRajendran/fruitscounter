@@ -30,6 +30,7 @@ class FruitsCounter extends Component {
             Bob ate <span className="heading-count">{mangoCount}</span> Mangoes{' '}
             <span className="heading-count">{bananaCount}</span> Bananas
           </h1>
+
           <div className="card-container">
             <div className="card-item">
               <img
